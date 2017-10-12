@@ -1,0 +1,43 @@
+body {
+    background: navy;
+}
+
+.top {
+    background: grey;
+    width: 100vw;
+    height: auto;
+    padding: 4vh 0px 4vh 4vh;
+}
+
+#logo-box {
+    background: royalblue;
+    height: 8vh;
+    width: 8vh;
+    display: inline-block;
+
+}
+
+#paragraph-div {
+    background: white;
+    width: 100vw;
+    height: auto;
+    padding: 5vh;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bottom-divs {
+    width: 100vw;
+    height: 13vh;
+}
+#bot-1 {
+    background: yellow;
+}
+#bot-2 {
+    background: indianred;
+}
+#bot-3{
+    background: navajowhite;
+}
+#bot-4 {
+    background: lavender;
+}

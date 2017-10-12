@@ -1,0 +1,38 @@
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.main-div {
+    background: powderblue;
+    align-content: center;
+    position: relative;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+#heading {
+    background: hotpink;
+    height: 18vh;
+    width: 100%;
+    
+
+}
+.middle-div {
+    background: navy;
+    height: 73vh;
+    width: 80%;
+    position: relative;
+    margin:  0 auto;
+    padding: 10px;
+
+    
+}
+
+#foot {
+    background: maroon;
+    height: 9vh;
+    margin: 0 auto;
+}
